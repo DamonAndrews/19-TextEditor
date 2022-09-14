@@ -20,3 +20,6 @@ https://enigmatic-cove-17195.herokuapp.com/
 GitHub Link:
 
 https://github.com/DamonAndrews/Module19ProgressiveWebApplications
+
+
+![text_editor_screenshot](https://user-images.githubusercontent.com/107002411/190232522-6700a290-3608-4fe1-87e9-547448a5b431.jpg)
